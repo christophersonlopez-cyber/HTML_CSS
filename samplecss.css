@@ -7,3 +7,12 @@
             color: blueviolet;
             text-align: right;
         }
+.style1{
+    text-align: center;
+    color: blue;
+}
+.style2{
+    color: brown;
+    text-align: right;
+    font-size: medium;
+} 
