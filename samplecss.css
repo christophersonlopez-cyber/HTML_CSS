@@ -24,3 +24,6 @@ p{
     font-weight: bold;
     text-align: left;
 }
+table, th, td {
+  border: 1px solid green;
+}
