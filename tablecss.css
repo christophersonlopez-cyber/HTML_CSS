@@ -1,3 +1,7 @@
 table, th, td {
-  border: solid green;
+  border: 1px solid green;
+  border-collapse: collapse;
+  padding: 10px;
+  color: rgb(232, 248, 214);
+  background-color: rgb(2, 46, 31);
 }
