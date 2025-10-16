@@ -18,3 +18,9 @@
     text-align: right;
     font-size: medium;
 } 
+p{
+    color: yellow;
+    background: black;
+    font-weight: bold;
+    text-align: left;
+}
