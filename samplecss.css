@@ -8,11 +8,13 @@
             text-align: right;
         }
 .style1{
+    background-color:black ;
     text-align: center;
     color: blue;
 }
 .style2{
-    color: brown;
+    background-color: black;
+    color: rgb(246, 243, 243);
     text-align: right;
     font-size: medium;
 } 
